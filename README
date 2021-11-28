@@ -1,0 +1,9 @@
+This is a basic C# ASP.Net web application showing a Notes website that contains:
+
+The Ability to Create a Note
+Edit a Note
+Delete a Note
+Add New User Accounts
+Only allows users to Create, Edit or Delete when logged in
+
+Also using SQL to save these into a Database
